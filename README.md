@@ -29,6 +29,6 @@ Contacts (Контакти)
 HTML
 📂 Запуск проєкту
 Завантажити або клонувати репозиторій:
-git clone https://github.com/Vadimka213/bubble-waffle.git
+git clone https://github.com/Vadimka213/bubble-waffle.git](https://github.com/Vadimka213/bubble-waffle/tree/master?tab=readme-ov-file
 Відкрити файл:
 index.html
